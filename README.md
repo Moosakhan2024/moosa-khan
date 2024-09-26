@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&pause=295&color=32CA4F&center=true&vCenter=true&multiline=true&width=1560&height=100&lines=%F0%9F%91%80+I%E2%80%99m+interested+in+programming+and+Testing.;%F0%9F%8C%B1+I%E2%80%99m+currently+working+on+Next.js.;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+programming%2C+cyber+security+(tools)+mostly+in+python+but+would+like+to+work+on+other+language." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&pause=295&color=32CA4F&center=true&vCenter=true&multiline=true&width=1560&height=100&lines=%F0%9F%91%80+I%E2%80%99m+interested+in+programming+and+Testing.;%F0%9F%8C%B1+I%E2%80%99m+currently+working+on+Laravel.;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+programming%2C+(tools)+mostly+in+laravel+but+would+like+to+work+on+other+language." alt="Typing SVG" /></a>
 </p>
 
 
@@ -87,18 +87,17 @@ I'm a Software Quality Assurance Engineer based in Swat, KPK, Pakistan 🌄. I'm
   
 - # **Databases**
   
-     ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+  
      ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 <br>
   
 - # **Softwares and Tools**
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
   
 
 <br>
@@ -106,7 +105,7 @@ I'm a Software Quality Assurance Engineer based in Swat, KPK, Pakistan 🌄. I'm
 - # **Extras**
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+ 
 
 
 
@@ -160,11 +159,11 @@ I'm a Software Quality Assurance Engineer based in Swat, KPK, Pakistan 🌄. I'm
 
 <br>
 
-Last Edited on: 09/11/2022
+Last Edited on: 09/11/2023
 
 
 
 <!---
-Sohail-hsd/Sohail-hsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+moosa khan/moosa khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
