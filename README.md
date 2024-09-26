@@ -25,7 +25,7 @@
 
 <br>
 
-I'm a Software Quality Assurance Engineer based in Swat, KPK, Pakistan 🌄. I'm passionate about software testing methodologies and have experience in manual and automated testing. I'm also skilled in various programming languages and enjoy working on web and mobile app development projects.
+I am a web developer from KPK, Swat, specializing in designing, building, and maintaining websites. I focus on both user interfaces and server-side functionality, using programming languages and frameworks to create responsive, optimized websites that meet client needs.
 
 
 <br><br>
@@ -37,11 +37,9 @@ I'm a Software Quality Assurance Engineer based in Swat, KPK, Pakistan 🌄. I'm
 
 - Proficient in software testing methodologies, including manual and automated testing.
 - Knowledge of testing techniques: Regression, Smoke, Sanity, Load, Stress, Usability.
-- Well-versed in security testing: IDOR detection, SQL injection, XSS, CSRF, DOS/DDOS, etc.
-- Experienced in using Jira and Confluence.
-- Familiar with programming languages: Python, JavaScript, PHP, SQL.
+- Familiar with programming languages: php , JavaScript, PHP, SQL, Laravel.
 - Familiarity with test automation frameworks: Selenium, Cypress.
-- Experienced in Agile methodologies and SDLC.
+
 
 
 
@@ -50,18 +48,19 @@ I'm a Software Quality Assurance Engineer based in Swat, KPK, Pakistan 🌄. I'm
 
  - # **Languages**
   
-    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  
+ ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
+ ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+ ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+    
 
 <br>   
     
 - # **Front-End Development**
   
    ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-   ![React Native](https://img.shields.io/badge/-React_Native-0088CC?style=for-the-badge&logo=React&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -79,9 +78,10 @@ I'm a Software Quality Assurance Engineer based in Swat, KPK, Pakistan 🌄. I'm
 
 - # **Frameworks**
   
-    ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
-    ![Python Flask](https://img.shields.io/badge/-Python_Flask-000000?style=for-the-badge&logo=Python&logoColor=white)
-    ![Python Django](https://img.shields.io/badge/-Python_Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+ ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
+   ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+
+
 
 <br>
   
